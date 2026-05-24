@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack / التقنيات والأدوات
+### 🛠️ Tech Stack / التقنيات الأدوات
 
 <div align="center">
 
@@ -66,8 +66,8 @@
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201128007078)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdelrahman-amr1.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-amr1/)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdelrahman-amr1.github.io/AbdelrahmanAmr/#)
 
 </div>
 
